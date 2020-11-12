@@ -11,6 +11,7 @@
 * Stable if you do not switch to Unstable,
 * Easy to install, but painful yet fun,
 * An fine package manager ( dpkg, apt ),
+
 *3:* Alpine+Linux/Alpine
 
 * Easy to install, VEEEERY begginer friendly.
