@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/Ohio2/Top10Distros/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Ohio2/Top10Distros/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## My Top 10 of the linux distros
+*1:* Busybox, GNU+Arch Linux/Linux
+* Just because it is not begginer friendly does not mean it's HARD to install,
+* Easy to customize,
+* Very Lightweight,
+* Stable yet Bleeding-Edge,
+* Has the best package manager.
+*2:* GNU+Debian/Linux
+* Stable if you do not switch to Unstable,
+* Easy to install, but painful yet fun,
+* An fine package manager ( dpkg, apt ),
+*3:* Alpine+Linux/Alpine
+* Easy to install, VEEEERY begginer friendly.
+* ash
+* Has the 2nd best package manager.
+*4:* GNU+Fedora/Linux
+* Yes, this is the Fourth, because of Silverblue ONLY
+*5:* Plan9, Busybox, GNU+Gentoo/Linux
+* Hey, atleast this one supports i386
