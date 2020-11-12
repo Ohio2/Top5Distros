@@ -1,4 +1,4 @@
-## My Top 10 of the linux distros
+## My Top 5 of the linux distros
 *1:* Busybox, GNU+Arch Linux/Linux
 * Just because it is not begginer friendly does not mean it's HARD to install,
 * Easy to customize,
